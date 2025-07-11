@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/baonguyen09-github-second-brain-badge.png)](https://mseep.ai/app/baonguyen09-github-second-brain)
+
 <!-- PROJECT LOGO -->
 <div align="center">
   <a href="https://github.com/BaoNguyen09/github-second-brain">
